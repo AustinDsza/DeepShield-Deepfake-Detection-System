@@ -2,7 +2,7 @@
 
 Deep Shield is an AI-powered solution designed to provide comprehensive security and detection against potential threats. This repository includes the codebase, models, and necessary files to deploy and test the system locally or in production environments.
 
-## Features >>>>>>>
+## Features
 
 - **Deepfake Detection**: Detects deepfake images using advanced AI algorithms.
 - **Full-Stack Application**: Includes both a Django-based backend and a React Native mobile app.
